@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
+My name is Tamilla and I have been learning programming for about a year. Although I am a new in this job and need to learn further, I have already done some projects and progress in this field.
+
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My Portfolio](http://https://portfolio-tmh.netlify.app/)
 * ✉️  You can contact me at [tamilla19820204@gmail.com](mailto:tamilla19820204@gmail.com)
